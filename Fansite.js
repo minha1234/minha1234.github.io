@@ -1,1 +1,0 @@
-document.write("You linked the file perfectly!");
